@@ -15,7 +15,7 @@
 
 [![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/hugo-northendlab-forestry&engine=hugo&version=0.74.3)
 
-![Forestry admin interface](./images/forestry-admin.png)
+![Forestry admin interface](./images/forestry-cms.jpg)
 
 This project is pre-configured for [Forestry](https://forestry.io) a Git-based CMS, [import it](https://app.forestry.io/quick-start?repo=forestryio/hugo-northendlab-forestry&engine=hugo&version=0.74.3) to edit and preview your site ✨.
 
